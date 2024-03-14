@@ -1,5 +1,3 @@
-Sure, here's a basic README in markdown format documenting how to use the Node.js application for sending emails:
-
 ```markdown
 # Email API using Node.js and Nodemailer
 
