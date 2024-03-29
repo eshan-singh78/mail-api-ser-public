@@ -1,4 +1,4 @@
-```markdown
+
 # Email API using Node.js and Nodemailer
 
 This is a simple REST API built with Node.js and Nodemailer to send emails. It allows you to send emails programmatically using HTTP POST requests.
